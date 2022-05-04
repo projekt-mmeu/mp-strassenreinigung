@@ -29,14 +29,16 @@ https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/publikationen
 Amt für Statistik Berlin-Brandenburg (o.J): Bevölkerungsstand.  
 https://www.statistik-berlin-brandenburg.de/bevoelkerung/demografie/bevoelkerungsstand
 
+## Binder
+Das Modell kann ohne vorherige Installation über folgenden Link als interaktives Jupyter-Notebook im Browser aufgerufen werden:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projekt-mmeu/mp-strassenreinigung/main?labpath=Besen_Kehrmaschinen.ipynb)
+Beim ersten Aufruf wird das Notebook und eine virtuelle Umgebung initialisiert. Dieser Vorgang kann einige Minuten in Anspruch nehmen.
+
 ## Urheber
 János Sebestyén, Jonathan Kirchhoff (beide Wuppertal Institut für Klima, Umwelt, Energie gGmbH)
 
 ## Lizenz
 Sämtliche Inhalte des Repositories stehen unter der Creative Commmons Namensnennung 3.0 Deutschland (CC BY 3.0 DE) Lizenz. Sie können geteilt und weiterverarbeitet werden, wenn dabei auf die Urheber und die Lizenz verwiesen wird und eventuelle Änderungen kenntlich gemacht werden. Die vollständige Lizenz kann unter folgendem Link eingesehen werden:
 https://creativecommons.org/licenses/by/3.0/de/
-
-## Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projekt-mmeu/mp-strassenreinigung/main?labpath=Besen_Kehrmaschinen.ipynb)
 
 Jahr der Veröffentlichung: 2022
